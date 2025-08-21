@@ -1,4 +1,4 @@
-# Go pagecounter
+# Go pagecounter test
 Project to build a simple go pagecouter with redis backend
 ### SSH to the machine
 `vagrant ssh`
